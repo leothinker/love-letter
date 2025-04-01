@@ -1,3 +1,3 @@
 # Love Letter Open-source
 
-Love Letter Boardgame
+This is an open-source online implementation of the great board game Love letter.
